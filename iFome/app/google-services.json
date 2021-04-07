@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626667207714",
+    "firebase_url": "https://ifome-ddbfc-default-rtdb.firebaseio.com",
+    "project_id": "ifome-ddbfc",
+    "storage_bucket": "ifome-ddbfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626667207714:android:bcb49c06328cdc430b5e7b",
+        "android_client_info": {
+          "package_name": "com.example.ifome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626667207714-tqel8v6lm9mdvc93bj4t4f9pc0f4fota.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ifome",
+            "certificate_hash": "e7f2e7822217b0762a0309fbe001febb2423da7a"
+          }
+        },
+        {
+          "client_id": "626667207714-slv9vged5p7si7f6j08gbo6s7m15kv11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd9ZnMdHs5g216VkCtZ3Ag5PAyKYRmetA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626667207714-slv9vged5p7si7f6j08gbo6s7m15kv11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
