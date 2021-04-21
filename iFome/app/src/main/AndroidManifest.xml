@@ -9,7 +9,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.IFome">
-        <activity android:name=".files.activity.HomeActivity"></activity>
+        <activity android:name=".files.activity.CardapioActivity"
+            android:parentActivityName=".files.activity.HomeActivity"></activity>
+        <activity
+            android:name=".files.activity.ConfiguracoesUsuarioActivity"
+            android:parentActivityName=".files.activity.HomeActivity" />
+        <activity
+            android:name=".files.activity.NovoProdutoEmpresaActivity"
+            android:parentActivityName=".files.activity.EmpresaActivity" />
+        <activity
+            android:name=".files.activity.ConfiguracoesEmpresaActivity"
+            android:parentActivityName=".files.activity.EmpresaActivity" />
+        <activity android:name=".files.activity.EmpresaActivity" />
+        <activity android:name=".files.activity.HomeActivity" />
         <activity android:name=".files.activity.AutenticacaoActivity" />
         <activity android:name=".files.activity.SplashActivity">
             <intent-filter>
